@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 김진욱
+name: 이소망
 title: 사람과 함께할 때 재미와 행복을 느끼는 개발자 김진욱 입니다.
-email: kimjin0132@naver.com
+email: sky38009@naver.com
 # email_title: Email (Email title override)
-phone: 010-3084-3045
+phone: 010-4109-1953
 # phone_title: Phone (Phone title override)
-website: https://github.com/KimJinoook
+website: https://github.com/Somang0
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 # twitter_username: 
-github_username:  KimJinoook
+github_username:  Somang0
 # stackoverflow_username: 
 # dribbble_username: 
 # facebook_username: 
@@ -90,9 +90,9 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: MetaUs
-        link: https://github.com/KimJinoook/metaus
-        link_text: github.com/KimJinoook/metaus
-        sub_title: 팀장
+        link: https://github.com/Somang0/metaus
+        link_text: github.com/Somang0/metaus
+        sub_title: 팀원
         caption: 2022.05.30 ~ 2022.07.18
         #additional_links:
         #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -114,9 +114,9 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 이젠 먹으러 갑니다
-        link: https://github.com/KimJinoook/EZEN_SEMI_2
-        link_text: github.com/KimJinoook/EZEN_SEMI_2
-        sub_title: 팀장
+        link: https://github.com/Somang0/EZEN_SEMI_2
+        link_text: github.com/Somang0/EZEN_SEMI_2
+        sub_title: 팀원
         caption: 2022.05.09 ~ 2022.05.27
         #additional_links:
         #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -132,28 +132,7 @@ content:
           * 맛집 등록 시 주소를 위도경도 자동 변환, 카카오 지도 api 마커 등록
           * 좋아요, 평점, 리뷰 기능 구현
           
-          
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: POS & mobile order
-        link: https://github.com/KimJinoook/semiProject_POSandMobileOrder
-        link_text: github.com/KimJinoook/pos
-        sub_title: 개인프로젝트
-        caption: 2022.04.07 ~ 2022.04.26
-        #additional_links:
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-           자바 숙달 및 소켓 이해를 위한 개인 프로젝트
-        description: | # this will include new lines to allow paragraphs
-          * 계산기 기능 및 시재관리, 결제 수단별 매출 관리
-          * 모바일오더 이용 간 매장별 오픈여부 확인
-          * 매장 선택 주문, 소켓 이용 주문 전달
+
           
           
           
