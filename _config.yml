@@ -107,7 +107,7 @@ content:
           * java security, spring security 활용 비밀번호 암호화
           * Three.js와 ZipLoader 이용, 압축파일 해제 없이 3D모델 로딩
           * 회원 관리 간 경고 누적수에 따른 접속 차단 기능 구현
-          * Chart.js와 Sheet.js 활용 데이터 관리
+          * 결제 api 시스템 구현
           
           
       - layout: left
@@ -131,7 +131,7 @@ content:
           * 웹소켓 이용 접속자 채팅 기능 구현
           * 맛집 등록 시 주소를 위도경도 자동 변환, 카카오 지도 api 마커 등록
           * 좋아요, 평점, 리뷰 기능 구현
-          
+          * 카카오 로그인 api, 로그아웃, 마이페이지, 회원탈퇴 기능 구현
 
           
           
@@ -157,7 +157,6 @@ content:
         sub_title: 이젠아카데미
         caption: 2022.02. ~ 2022.07.
         quote: >
-          성적 최우수상 수상
         description: | # this will include new lines to allow paragraphs
           개발자 환경 구축, 개발 환경 운영 지원, 프로그래밍 언어 활용, 화면 구현, 프로그래밍 언어 응용, 애플리케이션 테스트 수행, 애플리케이션 배포, 응용SW 기초 기술 활용, 데이터 입출력 구현, 통합 구현, 인터페이스 구현, 서버프로그램 구현, 애플리케이션 설계, 화면 설계, 요구사항 확인, 데이터베이스 구현, SQL활용, SQL작성, UI 구현
   
