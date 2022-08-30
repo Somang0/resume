@@ -92,7 +92,7 @@ content:
         title: MetaUs
         link: https://github.com/Somang0/metaus
         link_text: github.com/Somang0/metaus
-        sub_title: 팀원
+        sub_title: 
         caption: 2022.05.30 ~ 2022.07.18
         #additional_links:
         #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -116,7 +116,7 @@ content:
         title: 이젠 먹으러 갑니다
         link: https://github.com/Somang0/EZEN_SEMI_2
         link_text: github.com/Somang0/EZEN_SEMI_2
-        sub_title: 팀원
+        sub_title: 
         caption: 2022.05.09 ~ 2022.05.27
         #additional_links:
         #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
